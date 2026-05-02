@@ -1,0 +1,249 @@
+{
+  "users": [
+    {
+      "id": "jbVdI6XtMCPyLQIfQIUTW",
+      "createdAt": "2026-05-02T10:37:18.819Z",
+      "name": "Aarav Mehta",
+      "email": "aarav@example.com",
+      "phone": "+919876543210",
+      "education": "B.Com final year with finance minor",
+      "location": "Mumbai",
+      "interests": [
+        "finance",
+        "analytics",
+        "consulting",
+        "technology"
+      ],
+      "skills": [
+        "Excel",
+        "communication",
+        "research",
+        "basic Python"
+      ],
+      "goals": "Study abroad and move into strategy or product roles",
+      "targetCountry": "Canada",
+      "budget": "INR 25-35 lakh",
+      "experience": "Fintech internship"
+    }
+  ],
+  "leads": [
+    {
+      "id": "edntvtOY8ffmZKbiCWpL9",
+      "createdAt": "2026-05-02T10:37:18.830Z",
+      "status": "new",
+      "userId": "jbVdI6XtMCPyLQIfQIUTW",
+      "name": "Aarav Mehta",
+      "email": "aarav@example.com",
+      "phone": "+919876543210",
+      "goals": "Study abroad and move into strategy or product roles",
+      "source": "onboarding"
+    }
+  ],
+  "messages": [],
+  "insights": [
+    {
+      "id": "ojgaKlLIgx8aLrAjQVab3",
+      "userId": "jbVdI6XtMCPyLQIfQIUTW",
+      "insights": {
+        "summary": "Aarav Mehta is best positioned for AI Product Manager and Business Analyst pathways. The immediate focus should be closing Product thinking, Data analysis, AI literacy gaps while preparing a strong resume, portfolio, and study-abroad shortlist.",
+        "fitScore": 66,
+        "careers": [
+          {
+            "title": "AI Product Manager",
+            "reason": "AI Product Manager fits because it connects Market research, Stakeholder communication with Study abroad and move into strategy or product roles. Strengthen Product thinking, Data analysis to become application-ready.",
+            "salary": "$90k-$145k",
+            "demand": "Very high",
+            "growth": "Fast"
+          },
+          {
+            "title": "Business Analyst",
+            "reason": "Business Analyst fits because it connects Excel with Study abroad and move into strategy or product roles. Strengthen SQL, Process mapping to become application-ready.",
+            "salary": "$65k-$105k",
+            "demand": "High",
+            "growth": "Steady"
+          },
+          {
+            "title": "Data Analyst",
+            "reason": "Data Analyst fits because it connects Python with Study abroad and move into strategy or product roles. Strengthen SQL, Dashboards to become application-ready.",
+            "salary": "$60k-$110k",
+            "demand": "High",
+            "growth": "Fast"
+          },
+          {
+            "title": "Management Consultant",
+            "reason": "Management Consultant fits because it connects Executive communication, Research with Study abroad and move into strategy or product roles. Strengthen Case solving, Financial modelling to become application-ready.",
+            "salary": "$80k-$150k",
+            "demand": "High",
+            "growth": "Competitive"
+          },
+          {
+            "title": "UX Researcher",
+            "reason": "UX Researcher fits because it connects your stated interests and goals with Study abroad and move into strategy or product roles. Strengthen User interviews, Survey design to become application-ready.",
+            "salary": "$70k-$120k",
+            "demand": "Moderate",
+            "growth": "Steady"
+          }
+        ],
+        "skillGap": {
+          "currentStrengths": [
+            "Excel",
+            "communication",
+            "research",
+            "basic Python"
+          ],
+          "missing": [
+            "Product thinking",
+            "Data analysis",
+            "AI literacy",
+            "SQL",
+            "Process mapping",
+            "Requirement writing",
+            "Presentation",
+            "Portfolio projects"
+          ],
+          "courses": [
+            {
+              "skill": "Product thinking",
+              "name": "Product School Product Management Micro-Certification",
+              "type": "Free"
+            },
+            {
+              "skill": "AI literacy",
+              "name": "DeepLearning.AI AI for Everyone",
+              "type": "Paid"
+            },
+            {
+              "skill": "SQL",
+              "name": "freeCodeCamp Relational Database Certification",
+              "type": "Free"
+            },
+            {
+              "skill": "Portfolio projects",
+              "name": "Forage virtual internships and project simulations",
+              "type": "Free"
+            }
+          ]
+        },
+        "studyAbroad": [
+          {
+            "country": "Canada",
+            "programs": [
+              "Business Analytics",
+              "Project Management",
+              "Computer Science",
+              "Digital Marketing"
+            ],
+            "universities": [
+              "University of Toronto",
+              "UBC",
+              "York University",
+              "Conestoga College"
+            ],
+            "eligibility": "Bachelor degree, IELTS/TOEFL or accepted waiver, SOP, funds proof.",
+            "nextStep": "Shortlist public institutions, check co-op options, and prepare SOP plus GIC funding plan."
+          },
+          {
+            "country": "United Kingdom",
+            "programs": [
+              "MSc Management",
+              "Business Analytics",
+              "FinTech",
+              "International Business"
+            ],
+            "universities": [
+              "University of Manchester",
+              "King's College London",
+              "Warwick",
+              "University of Leeds"
+            ],
+            "eligibility": "Bachelor degree, IELTS/PTE or waiver, academic transcripts, SOP, references.",
+            "nextStep": "Use rolling deadlines wisely and compare one-year ROI across cities."
+          },
+          {
+            "country": "Australia",
+            "programs": [
+              "Data Science",
+              "Management",
+              "Accounting",
+              "Information Systems"
+            ],
+            "universities": [
+              "University of Melbourne",
+              "Monash",
+              "UNSW",
+              "RMIT"
+            ],
+            "eligibility": "Bachelor degree, English score, Genuine Student requirement, financial proof.",
+            "nextStep": "Map courses to skilled occupation lists and scholarship windows."
+          }
+        ],
+        "roadmap": [
+          "Confirm target role family and preferred country with counsellor validation.",
+          "Close the top skill gaps: Product thinking, Data analysis, AI literacy.",
+          "Build two portfolio artifacts aligned with the chosen career path.",
+          "Create an ATS resume and LinkedIn profile tailored to the highest-fit roles.",
+          "Shortlist universities, scholarships, intake deadlines, and visa documentation.",
+          "Run mock interviews and begin applications with weekly progress tracking."
+        ],
+        "jobs": [
+          {
+            "title": "Junior Business Analyst",
+            "requiredSkills": [
+              "Excel",
+              "SQL",
+              "Requirement writing",
+              "Communication"
+            ],
+            "description": "Works with client teams to document processes, analyze data, and prepare decision reports.",
+            "match": 96
+          },
+          {
+            "title": "Admissions Counselling Associate",
+            "requiredSkills": [
+              "Communication",
+              "Research",
+              "CRM",
+              "Documentation"
+            ],
+            "description": "Guides students through course selection, application readiness, and visa documentation.",
+            "match": 96
+          },
+          {
+            "title": "Associate Product Analyst",
+            "requiredSkills": [
+              "Product thinking",
+              "Data analysis",
+              "Market research",
+              "AI literacy"
+            ],
+            "description": "Supports product roadmaps, customer research, metrics dashboards, and feature prioritization.",
+            "match": 73
+          },
+          {
+            "title": "Graduate Data Analyst",
+            "requiredSkills": [
+              "SQL",
+              "Python",
+              "Dashboards",
+              "Statistics"
+            ],
+            "description": "Turns operational and customer data into dashboards, insights, and business recommendations.",
+            "match": 73
+          },
+          {
+            "title": "Strategy Intern",
+            "requiredSkills": [
+              "Research",
+              "Presentation",
+              "Financial modelling",
+              "Case solving"
+            ],
+            "description": "Builds market scans, competitor analysis, and board-ready strategy materials.",
+            "match": 73
+          }
+        ]
+      },
+      "updatedAt": "2026-05-02T10:37:18.823Z"
+    }
+  ]
+}

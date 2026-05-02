@@ -1,0 +1,24 @@
+services:
+  - type: web
+    name: haven-ai-counsellor-api
+    runtime: node
+    rootDir: server
+    plan: free
+    buildCommand: npm install
+    startCommand: node src/index.js
+    autoDeploy: true
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 10000
+      - key: DATA_DIR
+        value: ./data
+      - key: OPENAI_MODEL
+        value: gpt-4.1-mini
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: CLIENT_ORIGIN
+        sync: false
+      - key: CORS_ORIGINS
+        sync: false
